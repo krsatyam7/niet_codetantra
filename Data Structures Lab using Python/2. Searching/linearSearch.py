@@ -1,5 +1,5 @@
 
-// method 1
+# method 1
 
 mylist=input("Enter the list of numbers: ").split()
 A=[int(i) for i in mylist]
@@ -16,7 +16,7 @@ else:
 	print(value,"was found at index",str(loc-1)+'.')
 
 	
-// method 2
+# method 2
 
 a=list(map(int,input('Enter the list of numbers: ').split()))
 num=int(input('The number to search for: '))
