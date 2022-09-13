@@ -10,9 +10,12 @@ public class NumberPalindrome {
 			reverse=reverse*10+reminder;
 			number/=10;
 		}
-		if (reverse==temp)
-		System.out.println(temp+" is a palindrome");
-		else
-		System.out.println(temp+" is not a palindrome");
+		if (reverse==temp){
+			System.out.println(temp+" is a palindrome");
+		}
+		
+		else{
+			System.out.println(temp+" is not a palindrome");
+		}
 	}
 }
