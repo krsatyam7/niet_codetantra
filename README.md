@@ -7,3 +7,5 @@ Or else use various autotyper available on internet.
 
 
 Happy Coding!
+
+[Connect with me.](https://linktr.ee/krsatyam7)
