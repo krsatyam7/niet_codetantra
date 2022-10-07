@@ -1,20 +1,24 @@
-import java.util.*;
-public class TestOverloading1{
-	public void add(int a,int b){
-		System.out.println("Addition of two numbers: "+(a+b));
-	}
-	public void add(int a,int b,int c){
-		System.out.println("Addition of three numbers: "+(a+b+c));
-	}
-	public static void main(String args[]){
-		int a,b,c;
-		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter three numbers: ");
-		a=sc.nextInt();
-		b=sc.nextInt();
-		c=sc.nextInt();
-		TestOverloading1 obj = new TestOverloading1();
-		obj.add(a,b);
-		obj.add(a,b,c);
+package q11075;
+
+public class CountOfTwoNumbers {
+	public boolean compareCountOf(int[] arr,int args1,int args2){
+		int i,len,f1=-1,f2=-1;
+		len=arr.length;
+		for(i=len-1;i>=0;i--){
+			if(arr[i]==args1){
+				f1=i;
+				break;
+			}
+		}
+		for(i=len-1;i>=0;i--){
+			if(arr[i]==args2){
+				f2=i;
+				break;
+			}
+		}
+		if(f1>f2)
+		return true;
+		else
+		return false;
 	}
 }
