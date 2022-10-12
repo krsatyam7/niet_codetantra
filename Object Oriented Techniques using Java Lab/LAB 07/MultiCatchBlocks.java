@@ -1,28 +1,18 @@
-package q11330;
-public class MyFinallyBlock {
-	public static void main(String args[]){
-		int a = Integer.parseInt(args[0]);
-		int b = Integer.parseInt(args[1]);
-		Float c = Float.parseFloat(args[2]);
-		Float d = Float.parseFloat(args[3]);
+package q11331;
+public class MultiCatchBlocks {
+	public void multiCatch(int[] arr,int index){
 		try{
-			System.out.println("Result of integer values division : "+a/b);
+			System.out.println(arr[index]);
+			System.out.println(arr[index]/index);
 		}
 		catch(ArithmeticException e){
-			System.out.println("Inside the 1st catch block");
+			System.out.println("Division by zero exception occurred");
 		}
-		finally{
-			System.out.println("Inside the 1st finally block");
+		catch(ArrayIndexOutOfBoundsException e){
+			System.out.println("Array index out of bounds exception occurred");
 		}
-		try{
-			System.out.println("Result of float values division : "+c/d);
-		}
-		catch(ArithmeticException e){
-			System.out.println("Inside of the 2nd catch block");
-		}
-		finally{
-			System.out.println("Inside the 2nd finally block");
+		catch(Exception e){
+			System.out.println("Exception occurred");
 		}
 	}
-	
 }
