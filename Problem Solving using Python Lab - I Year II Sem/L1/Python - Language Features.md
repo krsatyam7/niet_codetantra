@@ -47,7 +47,7 @@ print("Abracadabra"*7)
 
 
 ```python
-print("where", "the" "re", "is", "a", "will,", "th""ere", "is", "a", "way")
+print("where", "the" "re", "is", "a", "will,", "there", "is", "a", "way")
 ```
 
 # Q8
