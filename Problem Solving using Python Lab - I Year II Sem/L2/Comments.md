@@ -45,26 +45,3 @@ print(add.__doc__)
     
 print(power.__doc__)
 ```
-
-    Return sum of given arguments.
-    Return the power value.
-        
-        b -- is the base
-        e -- is the exponent
-        
-
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
