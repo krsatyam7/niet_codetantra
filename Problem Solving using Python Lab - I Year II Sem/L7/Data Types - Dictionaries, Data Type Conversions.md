@@ -4,8 +4,7 @@
 ## Q1
 
 
-```python
-✅ Dictionary is a Python data type to store multiple values.
+```✅ Dictionary is a Python data type to store multiple values.
 
 ◻ We use parenthesis () to define a dictionary.
 
