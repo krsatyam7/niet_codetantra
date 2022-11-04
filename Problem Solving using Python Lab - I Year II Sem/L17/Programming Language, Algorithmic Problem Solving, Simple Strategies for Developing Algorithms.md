@@ -1,6 +1,5 @@
 # Programming Language
-
-
+<br>
 
 ## Q1
 
@@ -45,8 +44,10 @@
 ◻︎ A compiled programming language is one which interprets and executes statement before the next statement is      interpreted.
 
 ✅ Functional programming language uses conditional expressions and recursion to perform computation.
+<br><br>
 
 # Algorithmic Problem Solving
+<br>
 
 ## Q1
 
@@ -65,9 +66,9 @@ No Any Question
 ◻︎ An algorithm which works as expected for few of the inputs proves its correctness.
 
 ✅ An Algorithm should be both time and space efficient besides being simple.
-
+<br><br>
 # Simple Strategies for Developing Algorithms
-
+<br>
 
 ## Q1
 
