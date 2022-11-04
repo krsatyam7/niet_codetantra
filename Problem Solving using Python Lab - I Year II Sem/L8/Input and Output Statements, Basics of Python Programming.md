@@ -34,9 +34,9 @@ print("Hello", name,"your branch is", branch,"and your score is", score)
 
 ```python
 # Take an integer input from the user and store it in variable "a"
-a=input("Enter a value: ")
+a=input("a: ")
 # Take an integer input from the user and store it in variable "b"
-b=input("Enter b value: ")
+b=input("b: ")
 # print "a" value at 0 index and "b" value at 1 index
 print("The value of a = {0}, b = {1} ".format(a,b))
 # print by changing the index postions of "a" and "b" and observe the output
@@ -48,7 +48,7 @@ print("The value of a = {1}, b = {0} ".format(a,b))
 
 ```python
 # take float number from the user
-a=input("Enter a value: ")
+a=input("a: ")
 # print up to 2 decimal points
 print("{0:.2f}".format(int(a)))
 # print up to 6 decimal points
@@ -62,9 +62,9 @@ print("%2d"%(int(b)))
 # print the number with three spaces
 print("%3d"%(int(b)))
 # print the given number b in octal form
-print("The given number in octal form is:",oct(int(b))[2:])
+print("octal:",oct(int(b))[2:])
 # print the given input b in hexadecimal form
-print("The given number in hex form is:",hex(int(b)).upper()[2:])
+print("hex:",hex(int(b)).upper()[2:])
 ```
 
 
