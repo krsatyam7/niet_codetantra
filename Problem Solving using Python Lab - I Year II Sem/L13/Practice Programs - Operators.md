@@ -2,26 +2,26 @@
 
 
 ```python
-x=int(input(("Enter the weight in kg: ")))
+x=int(input(("kg: ")))
 lb=2.2*x
-print("The weight in lb is",lb)
+print("lb:",lb)
 ```
 
 ## Q2
 
 
 ```python
-c=float(input("Enter the temperature in celsius: "))
+c=float(input("temp in celsius: "))
 f=1.8*c+32
-print("The temperature in fahrenheit is",f)
+print("temp in fahrenheit is",f)
 ```
 
 ## Q3
 
 
 ```python
-a=int(input("Enter first value: "))
-b=int(input("Enter second value: "))
+a=int(input("a: "))
+b=int(input("b: "))
 print("{} + {} =".format(a,b),a+b)
 print("{} - {} =".format(a,b),a-b)
 print("{} * {} =".format(a,b),a*b)
