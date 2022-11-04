@@ -14,8 +14,8 @@
 
 
 ```python
-x=input("Please enter M(male) or F(female): ")
-y=int(input("Please enter Age: "))
+x=input("M or F: ")
+y=int(input("age: "))
 if (x=="M") and y>=65:
     print("Eligible for Concession")
 elif (x=="F") and y>=60:
@@ -29,9 +29,9 @@ else:
 
 ```python
 # write your code here
-x=int(input("Enter a: "))
-y=int(input("Enter b: "))
-z=int(input("Enter c: "))
+x=int(input("a: "))
+y=int(input("b: "))
+z=int(input("c: "))
 if (x==y==6) and z!=6:
     print("True")
 else:
@@ -43,8 +43,8 @@ else:
 
 ```python
 # Program to illustrate logical and
-a = int(input("Enter a: "))
-b = int(input("Enter b: "))
+a = int(input("a: "))
+b = int(input("b: "))
 if(a==6 or b==6 or a+b==6 or a-b==6):
     print("True")
 else:
@@ -82,8 +82,8 @@ else:
 
 
 ```python
-x=input("Enter a string: ")
-y=input("Enter a substring: ")
+x=input("str1: ")
+y=input("str2: ")
 print(y,"in",x,":",y in x)
 ```
 
@@ -92,8 +92,8 @@ print(y,"in",x,":",y in x)
 
 ```python
 #Program to illustrate in and not in for strings
-x=input("Enter a long string: ")
-y=input("Enter a substring: ")
+x=input("str1: ")
+y=input("str2: ")
 print(y,"in",x,"is:",y in x)
 print(y,"not in",x,"is:",y not in x)
 ```
@@ -108,7 +108,7 @@ L1 = ['A', '123', 'Ramana', [1, 2], 34.56, '55']
 
 # write your code here
 print(L1)
-x=input("Enter an element to check existence in the above list: ")
+x=input("element: ")
 print(x,"in",L1,"is:",x in L1)
 print(x,"not in",L1,"is:",x not in L1)
 ```
