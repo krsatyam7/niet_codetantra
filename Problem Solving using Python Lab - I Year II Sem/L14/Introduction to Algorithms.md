@@ -41,9 +41,9 @@
 
 
 ```python
-miles = int(input("Enter distance in miles: "))
+miles = int(input("miles: "))
 if (miles > 0):
-    print("Distance in Kilometers =",miles*1.609)
+    print("kilometers:",miles*1.609)
     # convert the given miles into kilometers and print the result
     
 else:
