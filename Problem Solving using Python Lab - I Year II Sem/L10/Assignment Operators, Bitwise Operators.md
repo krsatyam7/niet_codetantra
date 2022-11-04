@@ -7,34 +7,32 @@
 
 
 ```python
-n=int(input("Enter an integer value: "))
-m=int(input("Enter a non zero integer value: "))
+n=int(input("x: "))
+m=int(input("y: "))
 a=n
 b=m
-print("x =",n)
-print("y =",m)
 n+=m
-print("After x += y: x =",n,"and y =",m)
+print("x += y: x =",n,"and y =",m)
 n,m=a,b
 n-=m
-print("After x -= y: x =",n,"and y =",m)
+print("x -= y: x =",n,"and y =",m)
 n,m=a,b
 n*=m
-print("After x *= y: x =",n, "and y =",m)
+print("x *= y: x =",n, "and y =",m)
 n,m=a,b
 n=n/m
-print("After x /= y: x =",n, "and y =",m)
+print("x /= y: x =",n, "and y =",m)
 n,m=a,b
 n=n**m
-print("After x **= y: x =",n, "and y =",m)
+print("x **= y: x =",n, "and y =",m)
 n,m=a,b
 n=n//m
-print("After x //= y: x =",n, "and y =",m)
+print("x //= y: x =",n, "and y =",m)
 n,m=a,b
 n=n%m
-print("After x %= y: x =",n, "and y =",m)
+print("x %= y: x =",n, "and y =",m)
 n=m
-print("After x = y: x =",n, "and y =",m)
+print("x = y: x =",n, "and y =",m)
 ```
 
 ## Q2
@@ -42,8 +40,8 @@ print("After x = y: x =",n, "and y =",m)
 
 ```python
 # Assignment Operators =, +=, -=, *=
-n=int(input("Enter an integer value: "))
-m=int(input("Enter a non zero integer value: "))
+n=int(input("x: "))
+m=int(input("y: "))
 a=n
 b=m
 n=m
@@ -64,8 +62,8 @@ print("x *= y:",n)
 
 ```python
 # Assignment Operators  /= , %=, **=, //=
-n = int(input("Enter an integer value: "))
-m = int(input("Enter a non zero integer value: "))
+n = int(input("x: "))
+m = int(input("y: "))
 a=n
 b=m
 n/=m
@@ -97,8 +95,8 @@ print ('x //= y:' , n)
 
 ```python
 #Program to illustrate bit wise operators >>, <<
-n=int(input("Enter an integer value: "))
-m=int(input("Enter an integer value: "))
+n=int(input("x: "))
+m=int(input("y: "))
 x=n>>m
 print(n,">>",m,"is",x)
 y=n<<m
@@ -110,8 +108,8 @@ print(n,"<<",m,"is",y)
 
 ```python
 #Program to illustrate the bitwise operators &, |
-x=int(input("Enter an integer value: "))
-y=int(input("Enter an integer value: "))
+x=int(input("x: "))
+y=int(input("y: "))
 print("{} & {}:".format(x,y),x&y)
 print("{} | {}:".format(x,y),x|y)
 ```
@@ -131,8 +129,8 @@ print("{} | {}:".format(x,y),x|y)
 
 ```python
 #Program to illustrate bitwise operators ~, ^
-x=int(input("Enter an integer value: "))
-y=int(input("Enter an integer value: "))
+x=int(input("x: "))
+y=int(input("y: "))
 print("~ {}:".format(x),~x)
 print("{} ^ {}:".format(x,y),x^y)
 ```
@@ -141,8 +139,8 @@ print("{} ^ {}:".format(x,y),x^y)
 
 
 ```python
-x=int(input("Enter an integer value: "))
-y=int(input("Enter an integer value: "))
+x=int(input("x: "))
+y=int(input("y: "))
 print("{} >> {} is".format(x,y),x>>y)
 print("{} << {} is".format(x,y),x<<y)
 print("{} & {} is".format(x,y),x&y)
@@ -155,8 +153,8 @@ print("{} ^ {} is".format(x,y),x^y)
 
 
 ```python
-x=int(input("Enter number1: "))
-y=int(input("Enter number2: "))
+x=int(input("num1: "))
+y=int(input("num2: "))
 c=((-y)+x)
-print("Subtraction of given two numbers using two's complement",c)
+print("difference:",c)
 ```
