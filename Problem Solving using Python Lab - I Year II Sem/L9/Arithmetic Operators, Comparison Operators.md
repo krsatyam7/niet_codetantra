@@ -20,8 +20,8 @@
 
 ```python
 #Arithmetic Operators are +, -, *, /, **, %, //
-num1 = int(input("Enter num1: "))
-num2 = int(input("Enter num2: "))
+num1 = int(input("num1: "))
+num2 = int(input("num2: "))
 print("%d + %d = %d" % (num1,num2,num1+num2))
 print("%d - %d = %d" % (num1,num2,num1-num2))
 print("%d * %d = %d" % (num1,num2,num1*num2))
@@ -34,8 +34,8 @@ print("%d // %d = %d" % (num1,num2,num1//num2))
 
 
 ```python
-n1 = int(input ("Enter num1: "))
-n2 = int(input ("Enter num2: "))
+n1 = int(input ("num1: "))
+n2 = int(input ("num2: "))
 print("Addition of",n1,"and",n2,"=",n1+n2)
 print("Subtraction of",n1,"and",n2,"=",n1-n2)
 print("Multiplication of",n1,"and",n2,"=",n1*n2)
@@ -47,8 +47,8 @@ print("Division of",n1,"and",n2,"=",n1/n2)
 
 
 ```python
-n1 = int(input("Enter num1: "))
-n2 = int(input("Enter num2: "))
+n1 = int(input("num1: "))
+n2 = int(input("num2: "))
 print("Exponent of",n1,"with",n2,"=",n1**n2)
 print("Modulus of",n1,"and",n2,"=",n1%n2)
 print("Floor Division of",n1,"and",n2,"=",n1//n2)
@@ -58,8 +58,8 @@ print("Floor Division of",n1,"and",n2,"=",n1//n2)
 
 
 ```python
-n=int(input("Enter num1: "))
-m=int(input("Enter num2: "))
+n=int(input("num1: "))
+m=int(input("num2: "))
 print("Exponent of",n,"with",m,"=",n**m)
 print("Modulus of",n,"and",m,"=",n%m)
 print('Floor Division of',n,"and",m,"=",n//m)
@@ -69,8 +69,8 @@ print('Floor Division of',n,"and",m,"=",n//m)
 
 
 ```python
-a=int(input("Enter number-1: "))
-b=int(input("Enter number-2: "))
+a=int(input("num1: "))
+b=int(input("num2: "))
 print(a,"//",b,"=",a//b)
 print(a,"%",b,"=",a%b)
 ```
@@ -87,8 +87,8 @@ print(a,"%",b,"=",a%b)
 
 
 ```python
-n1 = int(input("Enter num1: "))
-n2 = int(input("Enter num2: "))
+n1 = int(input("num1: "))
+n2 = int(input("num2: "))
 print("Is",n1,"greater than",n2,"=",n1>n2)
 print("Is",n1,"less than",n2,"=",n1<n2)
 print("Is",n1,"equal to",n2,"=",n1==n2)
@@ -101,8 +101,8 @@ print("Is",n1,"greater than or equal to",n2,"=",n1>=n2)
 
 
 ```python
-n1 = int(input ("Enter num1: "))
-n2 = int (input ("Enter num2: "))
+n1 = int(input ("num1: "))
+n2 = int (input ("num2: "))
 print("Is", n1, "greater than", n2, "=", n1>n2)
 print("Is", n1, "less than", n2, "=", n1<n2)
 print("Is", n1, "equal to", n2, "=", n1==n2)
@@ -115,10 +115,8 @@ print("Is",n1,"less than or equal to",n2,"=",n1<=n2)
 
 
 ```python
-m=input('Enter first string: ')
-n=input('Enter second string: ')
-print("str1 is:",m)
-print("str2 is:",n)
+m=input('str1: ')
+n=input('str2: ')
 print('Is',m,'greater than',n,"=",(m>n))
 print('Is',m,'less than',n,"=",m<n)
 print("Is",m,"equal to",n,"=",m==n)
@@ -131,10 +129,8 @@ print("Is",m,"less than or equal to",n,"=",m<=n)
 
 
 ```python
-m=input('Enter first string: ')
-n=input('Enter second string: ')
-print("str1 is:",m)
-print("str2 is:",n)
+m=input('str1: ')
+n=input('str2: ')
 print('Is',m,'greater than',n,"=",(m>n))
 print('Is',m,'less than',n,"=",m<n)
 print("Is",m,"equal to",n,"=",m==n)
