@@ -27,7 +27,7 @@ print(string1+string2)
 
 
 ```python
-a=("Hello Programmer! Welcome to the Python world.")
+a=("Welcome to Python")
 print(a)
 num=45
 num=num+5
