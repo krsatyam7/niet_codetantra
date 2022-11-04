@@ -63,8 +63,8 @@ No Any Question.
 
 
 ```python
-a=int(input("Enter a: "))
-b=int(input("Enter b: "))
+a=int(input("a: "))
+b=int(input("b: "))
 print("{} + {} * 5 =".format(a,b),a+b*5)
 print("{} + {} * 6 / 2 =".format(a,b),a+b*6/2)
 ```
@@ -73,8 +73,8 @@ print("{} + {} * 6 / 2 =".format(a,b),a+b*6/2)
 
 
 ```python
-a=int(input("Enter an integer value: "))
-b=int(input("Enter an integer value: "))
+a=int(input("a: "))
+b=int(input("b: "))
 print("{} + {} * 5 =".format(a,b),a+b*5)
 print("{} + {} * 5 * 10 / 2 =".format(a,b),a+b*5*10/2)
 ```
@@ -83,9 +83,9 @@ print("{} + {} * 5 * 10 / 2 =".format(a,b),a+b*5*10/2)
 
 
 ```python
-a=int(input("Enter a: "))
-b=int(input("Enter b: "))
-c=int(input("Enter c: "))
+a=int(input("a: "))
+b=int(input("b: "))
+c=int(input("c: "))
 print("a and b or c".format(a,b,c),a and b or c)
 print("a or b and c".format(a,b,c),a or b and c)
 ```
@@ -94,9 +94,9 @@ print("a or b and c".format(a,b,c),a or b and c)
 
 
 ```python
-a=int(input("Enter an integer value: "))
-b=int(input("Enter an integer value: "))
-c=int(input("Enter an integer value: "))
+a=int(input("a: "))
+b=int(input("b: "))
+c=int(input("c: "))
 print("{} and {} and {} or {} is".format(a,b,c,a),a and b and c or a)
 print("{} or {} and {} and {} is".format(a,b,c,a),a or b and c and a)
 ```
