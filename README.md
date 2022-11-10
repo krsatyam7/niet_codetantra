@@ -3,8 +3,7 @@
 Here is the solution for the Codetantra Labs.
 
 Try to do it on your own.
-Or else use various autotyper available on internet.
-
+Or use this [Autotyper](https://github.com/krsatyam7/autotyper)
 
 Happy Coding!
 
