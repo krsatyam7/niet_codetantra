@@ -1,6 +1,6 @@
 # https://niet.codetantra.com/
 
-Here is the solutin for the Codetantra Labs.
+Here is the solution for the Codetantra Labs.
 
 Try to do it on your own.
 
