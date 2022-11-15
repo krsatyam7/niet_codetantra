@@ -7,7 +7,7 @@
 
 <br>
 
-<p align="center"> <b>Hello Geeks!</b> <br> For any issue/solution or to have talk on any tech topic<b> <a href="https://linktr.ee/krsatyam7">connect with me  &nbsp;☎︎</b></a> <br> Also checkout my <b> <a href="https://linktr.ee/krsatyam7">Autotyper &nbsp;🖥️&nbsp;</b> </a> Project. <br> Happy Coding! 😇  </b></p>
+<p align="center"> <b>Hello Geeks!</b> <br> <img src="http://maothao.github.io/mao-historicizing/imgs/welcome.gif" height="150"> <br> For any issue/solution or to have talk on any tech topic<b> <a href="https://linktr.ee/krsatyam7">connect with me  &nbsp;☎︎</b></a> <br> Also checkout my <b> <a href="https://linktr.ee/krsatyam7">Autotyper &nbsp;🖥️&nbsp;</b> </a> Project. <br> Happy Coding! 😇  </b></p>
 
 <br>
 
