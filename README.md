@@ -20,7 +20,7 @@
 
 ![Problem Solving using Python Lab](https://user-images.githubusercontent.com/110342305/201940561-2f1205d5-968e-4419-889f-55e437f0dc0f.png)
 
-<p align="center"> <a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Problem%20Solving%20using%20Python%20Lab%20-%20I%20Year%20II%20Sem">Click here ⚡︎</a></p>
+<p align="center"> <a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Problem%20Solving%20using%20Python%20Lab%20-%202021-2025">Click here ⚡︎</a></p>
 
 ---
 
