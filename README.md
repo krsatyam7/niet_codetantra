@@ -12,7 +12,7 @@
 
 <br>
 
----
+
 <br>
 
 <H1 align="center"> This repository contains solutions for the following labs.</H1>
@@ -20,13 +20,13 @@
 
 <p align="center"> <a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Data%20Structures%20Lab%20using%20Python"><img src="https://user-images.githubusercontent.com/110342305/201945609-faf5ad8a-5791-49a7-8183-dbcf18ff19b8.png">Click Here ⚡︎</a></p>
 
----
+
 
 <br>
 
 <p align="center"> <a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Object%20Oriented%20Techniques%20using%20Java%20Lab"><img src="https://user-images.githubusercontent.com/110342305/201944058-483d3466-a0df-4522-aaf8-feceb4570a86.png">Click Here ⚡︎</a></p>
 
-***
+
 
 <br>
 
