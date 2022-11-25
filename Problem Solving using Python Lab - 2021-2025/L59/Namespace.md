@@ -55,7 +55,7 @@ the name in the namespace.
 
 ## Q5
 
-``` {.python}
+```python
 name = "Ram"
 greeting = "Good Morning"
 # print dir
