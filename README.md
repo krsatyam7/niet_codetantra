@@ -8,7 +8,9 @@
 
 <br>
 
-<p align="center"> <b>Hello Geeks!</b> <br> <img src="http://maothao.github.io/mao-historicizing/imgs/welcome.gif" height="130"> <br> <br> For any issue/solution or to have talk on any tech topic<b> <a href="https://linktr.ee/krsatyam7">connect with me  &nbsp;☎︎</b></a> <br> Also checkout my <b> <a href="https://github.com/krsatyam7/autotyper">Autotyper &nbsp;🖥️&nbsp;</b> </a> Project. <br> Happy Coding! 😇  </b></p>
+<p align="center"> <b>Hello Geeks!</b> <br> <img src="http://maothao.github.io/mao-historicizing/imgs/welcome.gif" height="130"> <br> <br> For any issue/solution or to have talk on any tech topic<b> <a href="https://linktr.ee/krsatyam7">connect with me  &nbsp;☎︎</b></a> <br> Also checkout my <b> <a href="https://github.com/krsatyam7/autotyper">Autotyper </b> </a> Project.
+<img src = "https://user-images.githubusercontent.com/110342305/206525403-04861123-a787-480b-97f1-df24f3bd18a1.gif"/>
+<br> Happy Coding! 😇  </b></p>
 
 <br>
 
