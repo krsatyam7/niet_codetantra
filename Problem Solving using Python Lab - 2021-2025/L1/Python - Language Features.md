@@ -5,7 +5,7 @@
 
 ◻ One needs to be a genius in Maths to become a computer programmer.
 
-✅ Computer Programming languages are very hard to learn.
+◻ Computer Programming languages are very hard to learn.
 
 
 # Q2
