@@ -1,4 +1,4 @@
-#Implementation of Tower Of Hanoi\
+#Implementation of Tower Of Hanoi
 def TowerOfHanoi(n,from_rod,to_rod,aux_rod):
 	if n == 1:
 		print("Move disk 1 from source",from_rod,"to destination",to_rod)
@@ -10,4 +10,3 @@ def TowerOfHanoi(n,from_rod,to_rod,aux_rod):
 n = int(input(" enter no of disk"))
 TowerOfHanoi(n,'A','B','C')
 #A,C,B are the name of rods
-#This code is written by Shivesh Shivam
