@@ -1,4 +1,4 @@
-# Classes
+# Errors and Exceptions
 
 
 
