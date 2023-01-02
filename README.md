@@ -36,7 +36,7 @@
 
 <br>
 
-<p align="center"><a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Problem%20Solving%20using%20Python%20Lab%20-%202021-2025"><img src="https://user-images.githubusercontent.com/110342305/201940561-2f1205d5-968e-4419-889f-55e437f0dc0f.png">Click Here ⚡︎</a></p>
+<p align="center"><a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Problem%20Solving%20using%20Python%20Lab%20-%202021-2025"><img src="https://user-images.githubusercontent.com/110342305/201940561-2f1205d5-968e-4419-889f-55e437f0dc0f.png"><img src="https://user-images.githubusercontent.com/110342305/210233741-28cd2957-e7cf-4fe3-a1ad-6fdb979baa38.png">Click Here ⚡︎</a></p>
 
 
 
