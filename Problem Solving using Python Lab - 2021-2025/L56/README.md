@@ -1,4 +1,4 @@
-## Issue faced in  L56 & L57
+## Issue faced in  L56
 
  <div align="center">
         <img width="49%" alt="Editable Part" src="https://user-images.githubusercontent.com/110342305/210236253-d7803ec6-8d36-46f8-9226-66a1de9928fb.png"/>
@@ -14,5 +14,5 @@
 
 <br> 
 
-<b> Note:</b> You may face above mentioned issue in L56 & L57, this because of the non-editable part in the code editor (having red background).
+<b> Note:</b> You may face above mentioned issue in L56, this because of the non-editable part in the code editor (having red background).
   Hope Codetantra will fix it soon.
