@@ -22,9 +22,9 @@
 
 ⦿ tilt() Returns the tilt angle
 
-◯ get_shapepoly() is used to define new numbers from previous number.
+○ get_shapepoly() is used to define new numbers from previous number.
 
-◯ showturtle() | st() returns true/false on the visibility of the turtle.
+○ showturtle() | st() returns true/false on the visibility of the turtle.
 
 ## Q4
 
