@@ -7,11 +7,8 @@
 
 ```python
 import CheckNegative
-n=int(input("Please enter some value: "))
-if CheckNegative.CheckNegativeNumber(n)==positive:
-	print("positive")
-else:
-	print("negative")
+n=int(input("x: "))
+CheckNegative.CheckNegativeNumber(n)
 ```
 
 ### CheckNegative.py
