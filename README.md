@@ -22,6 +22,8 @@
 
 <br>
 
+
+
 <H1 align="center"> This repository contains solutions for the following labs.</H1>
 <br> 
 
@@ -40,6 +42,9 @@
 
 <p align="center"> <a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Object%20Oriented%20Techniques%20using%20Java%20Lab"><img src="https://user-images.githubusercontent.com/110342305/201944058-483d3466-a0df-4522-aaf8-feceb4570a86.png">Click Here ⚡︎</a></p>
 
+<br>
+
+<p align="center"><a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Operating%20Systems%20Lab"><img src="https://user-images.githubusercontent.com/110342305/215279793-a2fde1ee-7c4c-4e2f-9c45-71c10e93fc70.png">Click Here ⚡︎</a></p>
 
 
 <br>
@@ -52,3 +57,5 @@
 
 
 <b>Note:</b> <i> Problem Solving using Python Lab (2022-2026) has the same answers as Problem Solving using Python Lab (2021-2025) 
+
+ 
