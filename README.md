@@ -16,7 +16,8 @@
 
 <p align="center"> <b> If you found this repo helpful, give us a  ⭐️ </b> </p>
 
-<br>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=segoe+script&duration=1000&pause=1000&color=F73172&center=true&vCenter=true&width=200&lines=Goal+%3A++16+%E2%AD%90%EF%B8%8E" alt="Typing SVG" /></a> </p>
+
 
 
 
