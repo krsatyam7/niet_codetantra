@@ -47,7 +47,7 @@ if (miles > 0):
     # convert the given miles into kilometers and print the result
     
 else:
-    print("Enter a positive value")
+    print("not positive value")
 
 ```
 
