@@ -59,14 +59,10 @@ print("good bye..!")
 
 
 ```python
-n=int(input("Enter size of list: "))
-l=[]
-s=0
-for i in range(n):
-	e=int(input("Enter value: "))
-	l.append(e)
-	s=s+e
-print("The sum of the given sequence {} is {}".format(l,s))
+n=int(input("Enter an integer: "))
+while n>0:
+	print(n)
+	n=n-1
 print("good bye..!")
 ```
 
@@ -134,14 +130,15 @@ print("{'%s': %d}"%(s,len(s)))
 
 
 ```python
-print("Enter strings contained name and dob with : seperated")
-s=input()
-l=s.split(" ")
-s=":".join(s.split(" "))
-ll=s.split(":")
-print("The list:",l)
-print("The list with join: {}---{}---{}".format(l[0],l[1],l[2]))
-print("The sorted dictionary: [('{}', '{}'), ('{}', '{}'), ('{}', '{}')]".format(ll[4],ll[5],ll[2],ll[3],ll[0],ll[1]))
+a=input("Enter strings contained name and dob with : seperated\n").split()
+dic=dict()
+for i in a:
+	val=i.split(':')
+	dic[val[0]]=val[1]
+print("The list:",a)
+fin="---".join(a)
+print('The list with join:',fin)
+print('The sorted dictionary:', sorted(dic.items()))
 ```
 
 ## Q10
