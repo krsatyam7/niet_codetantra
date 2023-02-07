@@ -34,7 +34,7 @@ void main ()
   int n, i, o[100];
   printf ("Enter Number of elements : ");
   scanf ("%d", &n);
-  printf ("Enter %d Elements : ", n);
+  printf ("Enter %d Elements : ",n);
   for (i = 0; i < n; i++)
     {
       scanf ("%d", &o[i]);
