@@ -36,12 +36,16 @@
 
 <p align="center"> <a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Design%20and%20Analysis%20of%20Algorithm%20Lab"><img src="https://user-images.githubusercontent.com/110342305/213709798-4349ae5c-defb-4c32-ab8e-948398d24682.png">Click Here ⚡︎</a></p>
 
+<br>
 
+<p align="center"><a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Design%20and%20Analysis%20of%20Algorithms%20Lab%20Using%20Python"><img src="https://user-images.githubusercontent.com/110342305/218781158-a32873a4-0830-421f-99fe-de707b02cb03.png">Click Here ⚡︎</a></p>
 
 <br>
 
 
 <p align="center"> <a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Object%20Oriented%20Techniques%20using%20Java%20Lab"><img src="https://user-images.githubusercontent.com/110342305/201944058-483d3466-a0df-4522-aaf8-feceb4570a86.png">Click Here ⚡︎</a></p>
+
+
 
 <br>
 
