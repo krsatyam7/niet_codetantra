@@ -1,24 +1,27 @@
 # Q12
 
-def dfs(adj_list, start, visited):
+def dfs(graph, start, visited):
 	visited.add(start)
-	print(start, end=' ')
+	if n>0 and m>0:
+		print(start, end=" ")
+	else:
+		print(start, end="")
 	
-	for v in adj_list[start]:
-		if v not in visited:
-			dfs(adj_list, v, visited)
+	for neighbor in graph[start]:
+		if neighbor not in visited:
+			dfs(graph, neighbor, visited)
 			
 n = int(input())
 m = int(input())
 
 # Creating an adjacency list for the graph
-adj_list = [[] for _ in range(n)]
+graph = {i: [] for i in range(n)}
 
 # Populating the adjacency list
-for _ in range(m):
+for i in range(m):
 	u, v = map(int, input().split())
-	adj_list[u].append(v)
-	adj_list[v].append(u)
+	graph[u].append(v)
+	graph[v].append(u)
 
 # Starting vertex for DFS
 start = int(input())
@@ -27,12 +30,6 @@ start = int(input())
 visited = set()
 
 # Perform DFS
-dfs(adj_list,start,visited)
+dfs(graph,start,visited)
 
-''' 
-In this problem, the expexted testcases outputs are not correct.
-Testcase 1 expected output ==> 0·1·2·
-Testcase 2 expected output ==> 0
-Here  ﹒ stands for a space. 
-'''
-
+# failing 1 hidden testcase :(
