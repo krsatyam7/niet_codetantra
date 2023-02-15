@@ -2,10 +2,7 @@
 
 def dfs(graph, start, visited):
 	visited.add(start)
-	if n>0 and m>0:
-		print(start, end=" ")
-	else:
-		print(start, end="")
+	print(start, end=" ")
 	
 	for neighbor in graph[start]:
 		if neighbor not in visited:
