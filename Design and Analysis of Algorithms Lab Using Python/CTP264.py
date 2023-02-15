@@ -25,12 +25,3 @@ n = int(input())
 arr = list(map(int, input().split()))
 min_val, max_val = find_min_max(arr, 0, n-1)
 print(min_val, max_val)
-
-
-''' 
-In this problem, the expexted testcases outputs are not correct.
-Testcase 1 expected output ==> 3﹒63
-Testcase 2 expected output ==> 12﹒650﹒
-Here  ﹒ stands for a space. 
-'''
-    
