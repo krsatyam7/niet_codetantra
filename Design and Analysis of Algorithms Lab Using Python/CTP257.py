@@ -17,7 +17,7 @@ def main():
 	for i in range(n):
 		arr.append(int(input()))
 	x = int(input())
-	if binary_search(arr, x, 0, len(arr) - 1):
+	if binary_search(arr, x, 1, len(arr) - 1):
 		print("item found")
 	else:
 		print("item not found")
@@ -26,4 +26,4 @@ if __name__ == "__main__":
   
   
 
- # failing 1 test-case (aleady tried few ways). 
+ # credit - Ashutosh Singh
