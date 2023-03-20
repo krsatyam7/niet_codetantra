@@ -1,4 +1,4 @@
-# Q15 (failing one hidden test case)
+# Q15
 
 from collections import defaultdict
 
@@ -47,11 +47,10 @@ class Graph:
 				self.union(parent,rank,x,y)
 				
 		if num_connected_components > 1:
-			print("0")
 			return None
 		for node in range(self.V):
 			parent[node]=node
-			rank[node]=0
+			rank[node]=node
 					
 					
 		while e < self.V - 1:
