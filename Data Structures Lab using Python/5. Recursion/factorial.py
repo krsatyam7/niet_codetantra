@@ -1,6 +1,6 @@
 #factorial using tail recursion
 def factorial(num):
-	if num==0:
+	if num==0 or num==1:
 		return 1   #base_case
 	else:
 		return num*factorial(num-1)   #recursive_call
