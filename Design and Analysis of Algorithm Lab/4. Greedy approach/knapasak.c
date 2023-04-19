@@ -41,9 +41,6 @@ int main(){
 	  }
 	  for (i = 1; i <= num; i++){
 	  	for (j = i + 1; j <= num; j++){
-			
-			// remove any  '}' from below code block, if produced
-			
 	  		if (ratio[i] < ratio[j]){
 	  			temp = ratio[j];
 	  			ratio[j] = ratio[i];
