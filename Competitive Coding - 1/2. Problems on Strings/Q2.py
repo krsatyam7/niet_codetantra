@@ -3,7 +3,7 @@ import sys
 s = sys.argv[1]
 
 def isPrimeLengthPalindrome(s):
-
+	# write code from here
 	n=len(s)
 	rev=""
 	flag=0
@@ -21,5 +21,6 @@ def isPrimeLengthPalindrome(s):
 			return True
 		else:
 			return False
+	# ends here
 
 print("true" if isPrimeLengthPalindrome(s) else "false");
