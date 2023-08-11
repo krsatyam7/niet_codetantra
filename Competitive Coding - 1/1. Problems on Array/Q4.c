@@ -1,4 +1,9 @@
-    int max=0;
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+int maxSumContiguousSubArray(int arr[], int arrLen)
+{
+    int max = 0;
     int maxend=0;
     for(int i=0;i<arrLen;i++){
         maxend=maxend+arr[i];
