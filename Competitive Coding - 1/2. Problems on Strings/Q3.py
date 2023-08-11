@@ -4,7 +4,7 @@ s = sys.argv[1]
 l = int(sys.argv[2])
 
 def isEqualCharacters(s, l):
-	# Write code here
+	# Write code from here
 	rev=""
 	for i in s:
 		rev = i+rev
@@ -14,5 +14,6 @@ def isEqualCharacters(s, l):
 		return True
 	else:
 		return False
+	# ends here
 
 print("true" if isEqualCharacters(s, l) else "false");
