@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-int maxSumContiguousSubArray(int arr[], int arrLen)
-{
-    int max = 0;
+int maxSumContiguousSubArray(int arr[], int arrLen) {
+    // write code from here
+    int max=0;
     int maxend=0;
     for(int i=0;i<arrLen;i++){
         maxend=maxend+arr[i];
@@ -28,8 +28,3 @@ int readIntArray(char *argsArray, int arr[]) {
     return col;
 }
 int main(int argc, char *argv[]) {
-    int arr[strlen(argv[1])];
-    int arrLen = readIntArray(argv[1], arr);
-    printf("%d\n", maxSumContiguousSubArray(arr, arrLen));
-    return 0;
-}
