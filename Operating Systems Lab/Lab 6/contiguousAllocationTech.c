@@ -39,7 +39,13 @@ int main()
 		bf[ff[i]]=1;
 	}
 	printf("File_no\tFile_size\tBlock_no\tBlock_size\tFragement\n");
-	for(i=1;i<=nf;i++)
-	printf("%d\t%d\t%d\t%d\t%d\n",i,f[i],ff[i],b[ff[i]],frag[i]);
-	return 0;
+	for(i=1;i<=nf;i++){
+		if(ff[i]!=0){
+			printf("%d\t%d\t%d\t%d\t%d\n",i,f[i],ff[i],b[ff[i]],frag[i]);
+		}
+		else{
+			printf("%d\t%d\t%d\t%d\t%d\n",i,f[i],ff[i],144,frag[i]);
+		}
+	}
+		
 }
