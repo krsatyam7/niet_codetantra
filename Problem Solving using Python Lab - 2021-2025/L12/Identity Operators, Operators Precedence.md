@@ -41,7 +41,7 @@ print("{} is {}".format(x,y),x is y)
 ```python
 x=int(input("x: "))
 y=int(input("y: "))
-print("{} is {}".format(x,y),x is not y)
+print("{} is not {}".format(x,y),x is not y)
 ```
 
 # Operators Precedence
