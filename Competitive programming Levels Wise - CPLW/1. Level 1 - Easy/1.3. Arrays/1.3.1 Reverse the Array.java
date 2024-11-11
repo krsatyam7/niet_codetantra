@@ -20,3 +20,4 @@ public class CTJ1555 {
         System.out.println(reverseArray(Arr).stream().map(String::valueOf).collect(Collectors.joining(",")));
     }
 }
+

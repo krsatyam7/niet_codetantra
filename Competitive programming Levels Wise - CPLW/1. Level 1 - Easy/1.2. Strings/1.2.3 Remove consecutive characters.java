@@ -18,3 +18,4 @@ public class CTJ3340 {
         System.out.println(removeConsecutiveCharacters(str));
     }
 }
+
