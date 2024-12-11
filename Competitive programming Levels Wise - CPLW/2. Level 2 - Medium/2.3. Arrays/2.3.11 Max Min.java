@@ -24,3 +24,4 @@ public class CTJ1598 {
 		System.out.println(maxMin (Arr).stream().map(String::valueOf).collect(Collectors.joining(",")));
 	}
 }
+
