@@ -1,6 +1,4 @@
-# Q15
-
-from collections import defaultdict
+# Q15 (answer updated)
 
 class Graph:
 	def __init__(self, vertices):

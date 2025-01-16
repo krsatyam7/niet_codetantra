@@ -1,4 +1,4 @@
-# Q13 (answer updated)
+# Q13 (again answer updated)
 
 n = int(input())
 m = int(input())
@@ -14,12 +14,12 @@ def bfs(graph, start_vertex):
 	visited = [False] * len(graph)
 	queue = [start_vertex]
 	        	            
-	while queue:
-		vertex = queue.pop(0)
+	while stack:
+		vertex = stack.pop(0)
 		if not visited[vertex]:
 			print(vertex, end=' ')
 			visited[vertex] = True
 			for neighbor in graph[vertex]:
 				if not visited[neighbor]:
-					queue.append(neighbor)
+					stack.append(neighbor)
 bfs(graph, start_vertex)
