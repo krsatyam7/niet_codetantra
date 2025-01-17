@@ -3,8 +3,6 @@
 <br>
 
 ![Codetantra Logo](https://user-images.githubusercontent.com/110342305/201940666-1012a318-063a-4173-a868-fd47eefdec06.png)
- 
- 
 
 <br>
 
@@ -18,19 +16,30 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=segoe+script&duration=1000&pause=1000&color=F73172&center=true&vCenter=true&width=200&lines=Goal+%3A++16+%E2%AD%90%EF%B8%8E" alt="Typing SVG" /></a> </p>
 
+<br>
 
+<H1 align="center"> This repository contains solutions for the following labs.</H1>
+<br>
 
+<p align="center"><a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Problem%20Solving%20using%20Python%20Lab%20-%202021-2025"><img src="https://user-images.githubusercontent.com/110342305/210235128-a0acb017-cc67-4f19-bbe6-fb6a35c69cf1.png">Click Here ⚡︎</a></p>
+
+<b>Note:</b> <i> Problem Solving using Python Lab (2022-2026) has the same answers as Problem Solving using Python Lab (2021-2025) 
 
 <br>
 
+<p align="center"> <a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Object%20Oriented%20Techniques%20using%20Java%20Lab"><img src="https://user-images.githubusercontent.com/110342305/201944058-483d3466-a0df-4522-aaf8-feceb4570a86.png">Click Here ⚡︎</a></p>
 
+<br>
 
-<H1 align="center"> This repository contains solutions for the following labs.</H1>
-<br> 
+<p align="center"> <a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Data%20Structures%20Lab%20using%20Python"><img src="img/Data-Structures-Lab-using-Python.png">Click Here ⚡︎</a></p>
 
-<p align="center"> <a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Data%20Structures%20Lab%20using%20Python"><img src="https://user-images.githubusercontent.com/110342305/201945609-faf5ad8a-5791-49a7-8183-dbcf18ff19b8.png">Click Here ⚡︎</a></p>
+<br>
 
+<p align="center"><a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Operating%20Systems%20Lab"><img src="img/Operating-Systems-Lab.png">Click Here ⚡︎</a></p>
 
+<br>
+
+<p align="center"><a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Design%20and%20Analysis%20of%20Algorithms%20Lab%20Using%20Python"><img src="img/Design-and-Analysis-of-Algorithms-Lab-Using-Python.png">Click Here ⚡︎</a></p>
 
 <br>
 
@@ -38,29 +47,6 @@
 
 <br>
 
-<p align="center"><a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Design%20and%20Analysis%20of%20Algorithms%20Lab%20Using%20Python"><img src="https://user-images.githubusercontent.com/110342305/218781158-a32873a4-0830-421f-99fe-de707b02cb03.png">Click Here ⚡︎</a></p>
+<p align="center"> <a href="https://github.com/DevGoyalG/niet_codetantra/tree/main/Competitive%20programming%20Levels%20Wise%20-%20CPLW"><img src="img/Competitive-programming-Levels-Wise-CPLW.png">Click Here ⚡︎</a></p>
 
 <br>
-
-
-<p align="center"> <a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Object%20Oriented%20Techniques%20using%20Java%20Lab"><img src="https://user-images.githubusercontent.com/110342305/201944058-483d3466-a0df-4522-aaf8-feceb4570a86.png">Click Here ⚡︎</a></p>
-
-
-
-<br>
-
-<p align="center"><a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Operating%20Systems%20Lab"><img src="https://user-images.githubusercontent.com/110342305/215279793-a2fde1ee-7c4c-4e2f-9c45-71c10e93fc70.png">Click Here ⚡︎</a></p>
-
-
-<br>
-
-<p align="center"><a href="https://github.com/krsatyam7/niet_codetantra/tree/main/Problem%20Solving%20using%20Python%20Lab%20-%202021-2025"><img src="https://user-images.githubusercontent.com/110342305/210235128-a0acb017-cc67-4f19-bbe6-fb6a35c69cf1.png">Click Here ⚡︎</a></p>
-
-
-
-
-
-
-<b>Note:</b> <i> Problem Solving using Python Lab (2022-2026) has the same answers as Problem Solving using Python Lab (2021-2025) 
-
- 
