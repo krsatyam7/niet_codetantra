@@ -163,7 +163,7 @@ int main() {
 
     float total_waiting = 0, total_turnaround = 0;
 
-    printf("PID→Arrival\tBurst\tWaiting\tCompletion\tTurnaround\n");
+    printf("PID\tArrival\tBurst\tWaiting\tCompletion\tTurnaround\n");
     for (int i = 0; i < n; i++) {
         int turnaround = processes[i].completion_time - processes[i].arrival_time;
         total_waiting += processes[i].waiting_time;
