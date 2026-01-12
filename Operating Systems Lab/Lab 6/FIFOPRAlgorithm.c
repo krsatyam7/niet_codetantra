@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+#include<stdlib.h>
 int main(){
     int fs, f[20];
     int len, rs[20];
