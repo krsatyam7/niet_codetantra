@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 #include<conio.h>
 int main(){
 	int m=0,m1=0,m2=0,p,count=0,i;
