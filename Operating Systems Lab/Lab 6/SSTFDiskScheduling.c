@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+#include<stdlib.h>
 #include<limits.h>
 int main(){
     int n, h;
